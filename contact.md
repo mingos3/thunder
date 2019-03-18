@@ -73,7 +73,7 @@ ul.contact-ul {
 
 
 #contact-form {
-    border: 1px solid #aaa;
+    border: 2px solid #aaa;
     display: inline-flex;
     margin-bottom: 1em;
 }
