@@ -19,11 +19,11 @@ analytics: UA-83979019-1
 disqus-shortname: comment-here
 
 # Color schemes
-color-1: '#f3ff33'
+color-1: '#a33bff'
 color-2: '#8dff33'
 
 # Author pictre 100x100 --> keep it inside img folder.
-author-image: 'author.jpg'
+author-image: 'lou.png'
 author-name: 'Bob Dylan' 
 author-about: 'Bob Dylan should be described in a very few words!' 
 
